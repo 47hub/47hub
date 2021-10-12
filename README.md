@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... coding, writing scripts. python, tabpy,windows powershell tab restAPI
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...omadoyo@yahoo.com
+- 📫 How to reach me ...datediff7@aol.com
 
 <!---
 47hub/47hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
